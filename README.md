@@ -108,3 +108,5 @@ Current functionality includes:
 * Recently Viewed Projects
 
 And More! There's always room for improvement!
+
+Thanks to <a href="https://github.com/smartCoDev0629">Kevin Inoue</a> for sharing this freebie!
